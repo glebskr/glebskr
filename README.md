@@ -1,4 +1,3 @@
-### Hi there 👋
 ![alt text](https://pbs.twimg.com/media/D9WzH-5WkAAvxOM.jpg)
 <!--
 **glebskr/glebskr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
